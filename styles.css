@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(143, 22, 22);
+    font-style: italic;
+    font-stretch: expanded;
+    text-align: center;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.links {
+    text-align: center;
+    font-size: large;
+    font-family: fantasy;
+    font-weight: 700;
+}
