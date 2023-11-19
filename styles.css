@@ -1,8 +1,14 @@
+body {
+    background: gray;
+}
+
 h1 {
-    color: rgb(143, 22, 22);
+    color: rgb(158, 41, 41);
     font-style: italic;
     font-stretch: expanded;
     text-align: center;
+    margin-bottom: 24px;
+    background: darkgray;
 }
 
 .photo {
@@ -16,4 +22,12 @@ h1 {
     font-size: large;
     font-family: fantasy;
     font-weight: 700;
+    background: lightgray;
+    font-stretch: expanded;
+}
+
+.card {
+    background-color: lightgray;
+    margin: 24px;
+    padding: 3px;
 }
