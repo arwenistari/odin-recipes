@@ -22,12 +22,11 @@ h1 {
     font-size: large;
     font-family: fantasy;
     font-weight: 700;
-    background: lightgray;
     font-stretch: expanded;
 }
 
 .card {
-    background-color: lightgray;
+    background-color: rgba(211, 211, 211, 0.76);
     margin: 24px;
     padding: 3px;
 }
