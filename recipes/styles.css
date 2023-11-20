@@ -6,3 +6,36 @@ h1 {
     color: rgba(158,41,41);
     background: darkgray;
 }
+
+.info-card {
+    background: darkgray;
+    margin-top: 21px;
+}
+
+.servings {
+    display: inline;
+    margin: 10px;
+}
+
+.time {
+    display: inline;
+    margin: 10px;
+}
+
+.prep {
+    display: inline;
+    margin: 10px;
+}
+
+.difficulty {
+    display: inline;
+    margin: 10px;
+}
+
+.allergens {
+    margin: 10px;
+}
+
+.description {
+    
+}
