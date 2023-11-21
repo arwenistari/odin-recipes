@@ -37,5 +37,30 @@ h1 {
 }
 
 .description {
-    
+    text-decoration: underline solid;
+}
+
+.description-card {
+    background: darkgray;
+    padding-bottom: 2px;
+    margin-top: 25px;
+}
+
+.ingredients {
+    text-decoration: underline solid;
+}
+
+.ingredients-card {
+    background: darkgray;
+    padding-bottom: 2px;
+}
+
+.instructions {
+    text-decoration: underline solid;
+}
+
+.instructions-card {
+    background: darkgray;
+    padding-bottom: 2px;
+    margin-bottom: 5px;
 }
